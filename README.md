@@ -1,30 +1,28 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <a href="https://github.com/developer-web-ops">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=developer-web-ops&theme=github-dark&hide_border=true&area=true"
-      alt="Akhil's GitHub Activity Graph"
-    />
-  </a>
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=developer-web-ops&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
+    src="./profile/activity-graph.svg"
+    alt="GitHub Activity Graph"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=developer-web-ops&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="165"
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    width="49%"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-web-ops&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
+    src="./profile/top-langs.svg"
+    width="49%"
     alt="Top Languages"
   />
 </p>
